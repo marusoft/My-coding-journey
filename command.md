@@ -29,7 +29,7 @@
 * git status
 * git add filename or git add . 
 * git commit -m "your commit msg"
-* git push or git push origin branchname
+* git push or git push -u origin branchname
 * git pull or git push origin branchname
 * git remote rm <remote-name> or git remote remove <remote-name>
 * git remote -v
