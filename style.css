@@ -1,0 +1,19 @@
+/* External style */
+table{
+  border-collapse: collapse;
+}
+th{
+  color: rebeccapurple;
+  text-align: left;
+  padding: 10px;
+  border: 1px solid #111111;
+}
+tr{
+  /* padding: 10px; */
+  /* text-align: left; */
+}
+td{
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #111111;
+}
